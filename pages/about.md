@@ -16,7 +16,11 @@ content-type: static
 >  喜欢收藏域名，奈何实力有限，故控制数量，才能不伤根本！
 
 ## WeChat 
-WeChat;QingHongJiao
+WeChat; WorkGroupPro
 
 ## E mail
-HelloWorkDev@Gmail.Com
+WorkGroupPro@Gmail.Com
+
+## goovle voice
++13133896888 text message
+
