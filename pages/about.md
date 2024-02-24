@@ -27,7 +27,7 @@ content-type: static
 WeChat; WorkGroupPro
 
 ## E mail
-WorkGroupPro@Gmail.Com
+Hello Work Dev@Gmail.Com
 
 ## goovle voice
 +13133896888 text message
