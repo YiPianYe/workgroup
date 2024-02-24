@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: WorkGroup
+title: Home Page
 ---
