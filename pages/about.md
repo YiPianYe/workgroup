@@ -5,6 +5,8 @@ title: About
 content-type: static
 ---
 
+# 关于我
+
 >  苦逼的80后，
 > 
 >  上有老下有下！
@@ -14,6 +16,12 @@ content-type: static
 >  业余网站建设，其实只是代码的搬运工！
 > 
 >  喜欢收藏域名，奈何实力有限，故控制数量，才能不伤根本！
+ 
+# 关于本站
+
+ **本站是本人的书签，以及各种连接的临时网站**
+ 
+# 联系我
 
 ## WeChat 
 WeChat; WorkGroupPro
